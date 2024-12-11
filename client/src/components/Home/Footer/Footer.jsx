@@ -115,7 +115,7 @@ const Footer = () => {
             <hr className="hr" style={{ widows: "100%" }} />
             <div className="icons">
               <a
-                href="https://github.com/Rahul11255"
+                href="https://github.com/anshuman1212"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -130,7 +130,7 @@ const Footer = () => {
                 </li>
               </a>
 
-              <a href="https://wa.me/9354081946"
+              <a href="https://wa.me/7814832552"
                 target="_blank"
                 rel="noopener noreferrer">
                 <li>
@@ -144,7 +144,7 @@ const Footer = () => {
                 </li>
               </a>
 
-              <a href="https://www.instagram.com/rahulpatel11255/"
+              <a href="https://www.instagram.com/"
                 target="_blank"
                 rel="noopener noreferrer">
                 <li>
@@ -158,7 +158,7 @@ const Footer = () => {
                 </li>
               </a>
 
-              <a href="https://www.linkedin.com/in/rahul-patel-323baa213/"
+              <a href="https://www.linkedin.com/in/"
                 target="_blank"
                 rel="noopener noreferrer">
                 <li>
@@ -172,7 +172,7 @@ const Footer = () => {
                 </li>
               </a>
               <li style={{listStyle:"none" ,color:"white",marginTop:"10px"}}>
-              <b>Ph - </b> <em>9354081946</em>   
+              <b>Ph - </b> <em>78148325</em>   
               </li>
 
             </div>
@@ -186,7 +186,7 @@ const Footer = () => {
         </Grid>
       </Grid>
       <div className="copyright">
-        Copyright  <CopyrightIcon sx={{fontSize:20}}/>  2024, Rahul Patel All Rights Reserved
+        Copyright  <CopyrightIcon sx={{fontSize:20}}/>  2024, All Rights Reserved
       </div>
     </div>
   );
